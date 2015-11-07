@@ -1,0 +1,39 @@
+{
+  "name": "react-rapid",
+  "version": "0.0.12",
+  "description": "A library that makes development of data-driven applications on Reactjs more rapid",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tov-Novoseltsev/react-rapid"
+  },
+  "keywords": [
+    "ReactJS",
+    "Rapid application development"
+  ],
+  "author": "Maxim Novoseltsev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tov-Novoseltsev/react-rapid/issues"
+  },
+  "homepage": "https://github.com/tov-Novoseltsev/react-rapid",
+  "devDependencies": {
+    "del": "^1.1.1",
+    "gulp": "^3.8.11",
+    "jasmine-core": "^2.3.4",
+    "jshint": "^2.7.0",
+    "jshint-loader": "^0.8.3",
+    "karma": "^0.12.36",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-jasmine": "^0.3.5",
+    "karma-phantomjs-launcher": "^0.2.0",
+    "karma-webpack": "^1.5.1",
+    "minimist": "^1.1.1",
+    "node-libs-browser": "^0.5.0",
+    "phantomjs": "^1.9.17",
+    "webpack": "^1.9.7"
+  },
+  "dependencies": {
+    "lodash": "^3.10.0"
+  }
+}
