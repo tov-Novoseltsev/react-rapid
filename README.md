@@ -1,6 +1,3 @@
-# react-rapid
-A library that makes development of ReactJS applications more rapid
-
 The library allows you to define the structure of you data:
 ```javascript
 var { DataDefinition } = require('react-rapid');
