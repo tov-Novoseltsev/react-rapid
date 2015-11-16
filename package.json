@@ -1,6 +1,6 @@
 {
   "name": "react-rapid",
-  "version": "0.0.12",
+  "version": "0.0.13",
   "description": "A library that makes development of data-driven applications on Reactjs more rapid",
   "main": "index.js",
   "repository": {
